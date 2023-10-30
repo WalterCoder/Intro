@@ -13,7 +13,7 @@ body {
 
 }
 /*The Title*/
-.tittle{
+.title{
   color:rgb(255, 255, 255);
   font-size:6rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -26,12 +26,7 @@ body {
   margin-top: 50px; /* Ajusta el margen superior según sea necesario */
 }
 
-.title {
-  color: rgb(255, 255, 255);
-  font-size: 5rem;
-  text-decoration: double;
-  
-}
+
 
 .name {
   color: rgb(0, 113, 115);
@@ -65,10 +60,9 @@ a:hover, a:active{
 
 @media (max-width: 767px){
 
-  .tittle{
+  .title{
     font-size:2.5rem;
     color:white;
-    font-family:Georgia, 'Times New Roman', Times, serif;
   }
   .button-area button{
     font-size:1rem;
