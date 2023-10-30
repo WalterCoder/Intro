@@ -10,13 +10,13 @@ body {
   align-items: center;
   height: 100vh;
   text-align:center;
-  font-family:initial;
+
 }
 /*The Title*/
 .tittle{
   color:rgb(255, 255, 255);
   font-size:6rem;
-  font-family:initial;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .content {
   text-align: center;
@@ -68,7 +68,7 @@ a:hover, a:active{
   .tittle{
     font-size:2.5rem;
     color:white;
-    font-family:Initial;
+    font-family:Georgia, 'Times New Roman', Times, serif;
   }
   .button-area button{
     font-size:1rem;
