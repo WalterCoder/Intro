@@ -12,3 +12,14 @@ function mostrarElementosConEstilo() {
 
 // Llama a la función para mostrar los elementos
 mostrarElementosConEstilo();
+
+
+//PRELOADER
+
+let loader = document.getElementById('preloader')
+
+window.addEventListener("load", function(){
+    loader.style.display = "none"
+
+
+})
